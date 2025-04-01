@@ -15,9 +15,7 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
-- Percentage of Total Orders delivered
-
-- Dashboard Interaction <a href="https://github.com/Pramodkumar-Analyst/Sales_Analysis_Dashboard/blob/main/Sales%20Dashboard.png">View Dashboard</a>
+- Percentage of Total Orders delivered</br>
 
 ## Process
 - Verify the data for any missing values and inconsistent data format.

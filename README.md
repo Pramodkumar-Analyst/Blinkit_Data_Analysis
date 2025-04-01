@@ -4,7 +4,7 @@
 The goal of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
 
 ## Dataset used
-- <a href="https://github.com/Pramodkumar-Analyst/Sales-Analysis_Dashboard-/blob/main/Vrinda%20Store%20Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/Pramodkumar-Analyst/Blinkit_Data_Analysis/blob/main/Blinkit%20Grocery%20Data.xlsx">Dataset</a>
 
 ## Questions (KPI's)
 - Compare the sales and orders using single chart.
@@ -27,7 +27,7 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 
 ## Dashboard
 
-![Sales Report](https://github.com/Pramodkumar-Analyst/Sales_Analysis_Dashboard/blob/main/Sales%20Dashboard.png)
+![Sales Report](https://github.com/Pramodkumar-Analyst/Blinkit_Data_Analysis/blob/main/Blinkit%20Dashboard.png)
 
 
 ## Project Insight

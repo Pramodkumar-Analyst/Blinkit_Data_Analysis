@@ -28,3 +28,10 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 - The average revenue per sale is $141
 - The Number of items sold is 8523
 - The average customer rating for sold items is 4.0
+
+## Project Insight
+To optimize business strategy and improve sales performance for Blinkit.
+- Focus marketing efforts on Tier 3 locations and medium-sized outlets, as they show the highest sales potential.
+- Expand high-performing categories (e.g., Fruits & Vegetables, Snack Foods) while optimizing underperforming categories like Breakfast and Seafood.
+- Evaluate reasons for the post-2018 decline in sales and implement strategic initiatives to regain peak sales levels.
+- Consider expanding Supermarket Type 1 outlets, as they outperform all other types significantly.

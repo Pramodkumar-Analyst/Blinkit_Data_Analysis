@@ -7,15 +7,10 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 - <a href="https://github.com/Pramodkumar-Analyst/Blinkit_Data_Analysis/blob/main/Blinkit%20Grocery%20Data.xlsx">Dataset</a>
 
 ## Questions (KPI's)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 5 states contributing to the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered</br>
+- Calculate the Total Sales.
+- What'sThe average revenue per sale?
+- Calculate The total count of different items sold?
+- What's The average customer rating for items sold?,</br>
 
 ## Process
 - Verify the data for any missing values and inconsistent data format.

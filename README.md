@@ -8,9 +8,9 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 
 ## Questions (KPI's)
 - Calculate the Total Sales.
-- What'sThe average revenue per sale?
-- Calculate The total count of different items sold?
-- What's The average customer rating for items sold?,</br>
+- What's the average revenue per sale?
+- Calculate the total count of different items sold?
+- What's the average customer rating for items sold?,</br>
 
 ## Process
 - Verify the data for any missing values and inconsistent data format.
@@ -24,12 +24,7 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 
 
 ## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
-
-## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
-
+- The Total sales is $1.20M
+- The average revenue per sale is $141
+- The Number of items sold is 8523
+- The average customer rating for sold items is 4.0

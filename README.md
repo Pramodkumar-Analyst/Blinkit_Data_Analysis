@@ -13,9 +13,11 @@ The goal of this project is to conduct a comprehensive analysis of Blinkit's sal
 - What's the average customer rating for items sold?,</br>
 
 ## Process
-- Verify the data for any missing values and inconsistent data format.
+- Imported Blinkit sales data into Excel, remove duplicates, handle missing values, and formated data properly.
 - Cleaned and transformed the data using the Power Query.
-- Created pivot tables according to the questions asked.
+- Used Pivot Tables to summarize sales by item type, outlet size, location, and fat content.
+- Added slicers and drop-down filters to enable dynamic selection of outlet size, location, and item type.
+- Created charts (bar, pie, line) using Excel's built-in visualization tools to represent key insights.
 - Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
 
 ## Dashboard

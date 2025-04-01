@@ -1,5 +1,4 @@
-# Blinkit_Data_Analysis (Interactive Dashboard creation using MS Excel)
-The goal of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
+# Blinkit Data Analysis (Interactive Dashboard creation using MS Excel)</br>
 
 ## Project Objective
 The goal of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
